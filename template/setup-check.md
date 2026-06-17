@@ -2,18 +2,18 @@
 
 ## Editor
 
-- Editor usato:
+- Editor usato: VS Code 
 - Riesco ad aprire la cartella del progetto: si / no / non ancora
 
 ## Git
 
-Comando o controllo eseguito:
+Comando o controllo eseguito: 
 
 ```bash
 git --version
 ```
 
-Risultato:
+Risultato: git version 2.51.0.windows.1
 
 ```txt
 ...
@@ -27,7 +27,12 @@ Se hai gia' una repo aperta:
 git status
 ```
 
-Risultato o nota:
+Risultato o nota:  On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory) 
 
 ```txt
 ...
@@ -35,9 +40,9 @@ Risultato o nota:
 
 ## Tool AI
 
-- Tool scelto:
-- Posso usarlo oggi: si / no / parziale
-- Fallback se non funziona:
+- Tool scelto: Claude 
+- Posso usarlo oggi: si 
+- Fallback se non funziona: Chat GPT
 
 ## Blocco Eventuale
 
